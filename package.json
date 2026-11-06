@@ -1,0 +1,1 @@
+{"dependencies":{"@remotion/cli":"latest","@remotion/google-fonts":"latest","react":"latest","react-dom":"latest","remotion":"latest"},"devDependencies":{"@types/react":"latest","typescript":"latest"},"name":"the-fine-print","private":true,"scripts":{"dev":"remotion studio src/index.ts","render":"remotion render src/index.ts Sample020 out/sample020.mp4"},"version":"1.0.0"}
